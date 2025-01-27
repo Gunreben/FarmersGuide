@@ -8,7 +8,7 @@
 
 ### Watch Our Demo Video
 
-Check out our demo video on YouTube: [Farmguide Demo]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/g3sFBekraBA ))
+Check out our demo video on YouTube: [Farmguide Demo](https://www.youtube.com/watch?v=your-video-id](https://youtu.be/g3sFBekraBA )
 
 
 FarmersGuide is an innovative project created for the Zif EcoHack LLM Hackathon, where we use Large Language Models (LLMs) to unlock insights from ecological research papers. Our focus is on plant-insect interactions, enabling farmers to make science-backed decisions about crop protection, pollination, and pest management. By transforming complex research into actionable knowledge, FarmersGuide bridges the gap between academic findings and real-world farming solutions.
